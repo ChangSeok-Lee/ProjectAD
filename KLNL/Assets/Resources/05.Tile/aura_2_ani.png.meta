@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: df757495f3e9d5f488c6691edb3f0b52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1908826783825902426
+    second: aura_2_ani_0
+  - first:
+      213: 767076550057360286
+    second: aura_2_ani_1
+  - first:
+      213: -5611341559163822653
+    second: aura_2_ani_2
+  - first:
+      213: 1550326689912365511
+    second: aura_2_ani_3
+  - first:
+      213: -4066725370994997961
+    second: aura_2_ani_4
+  - first:
+      213: -5209883917661672635
+    second: aura_2_ani_5
+  - first:
+      213: -1374113746164377143
+    second: aura_2_ani_6
+  - first:
+      213: 3128730840034560937
+    second: aura_2_ani_7
+  - first:
+      213: 5570901743421016811
+    second: aura_2_ani_8
+  - first:
+      213: 1698044518626556286
+    second: aura_2_ani_9
+  - first:
+      213: 4232128914742987920
+    second: aura_2_ani_10
+  - first:
+      213: -3847527364319330585
+    second: aura_2_ani_11
+  - first:
+      213: -5991611178371750251
+    second: aura_2_ani_12
+  - first:
+      213: -5429601499457119919
+    second: aura_2_ani_13
+  - first:
+      213: 227436817555373476
+    second: aura_2_ani_14
+  - first:
+      213: -6857086536368360357
+    second: aura_2_ani_15
+  - first:
+      213: 6477712400776692821
+    second: aura_2_ani_16
+  - first:
+      213: 1604146425073038261
+    second: aura_2_ani_17
+  - first:
+      213: 4840123886845953134
+    second: aura_2_ani_18
+  - first:
+      213: 5229759064963030080
+    second: aura_2_ani_19
+  - first:
+      213: 974831341017270650
+    second: aura_2_ani_20
+  - first:
+      213: -6416185448934554882
+    second: aura_2_ani_21
+  - first:
+      213: 2980896532311281895
+    second: aura_2_ani_22
+  - first:
+      213: 7961853952726313165
+    second: aura_2_ani_23
+  - first:
+      213: 7125176082337253543
+    second: aura_2_ani_24
+  - first:
+      213: 8756591646262766328
+    second: aura_2_ani_25
+  - first:
+      213: 4220285886979899974
+    second: aura_2_ani_26
+  - first:
+      213: -1405467895984657861
+    second: aura_2_ani_27
+  - first:
+      213: 368373852137043856
+    second: aura_2_ani_28
+  - first:
+      213: 4002821139447031074
+    second: aura_2_ani_29
+  - first:
+      213: -8742827147768543202
+    second: aura_2_ani_30
+  - first:
+      213: -1510429769163043629
+    second: aura_2_ani_31
+  - first:
+      213: 5035470453230543063
+    second: aura_2_ani_32
+  - first:
+      213: -6233016350809708987
+    second: aura_2_ani_33
+  - first:
+      213: 8930632777696475045
+    second: aura_2_ani_34
+  - first:
+      213: 4149228584664293859
+    second: aura_2_ani_35
+  - first:
+      213: 4845517965493082829
+    second: aura_2_ani_36
+  - first:
+      213: -7975791995169644157
+    second: aura_2_ani_37
+  - first:
+      213: -2525401213926045557
+    second: aura_2_ani_38
+  - first:
+      213: -1501016632024719105
+    second: aura_2_ani_39
+  - first:
+      213: -7679754987834908288
+    second: aura_2_ani_40
+  - first:
+      213: -5972880959320109840
+    second: aura_2_ani_41
+  - first:
+      213: -4455455805402732859
+    second: aura_2_ani_42
+  - first:
+      213: 2300869502053899408
+    second: aura_2_ani_43
+  - first:
+      213: -103724138733276302
+    second: aura_2_ani_44
+  - first:
+      213: -5179500329372745663
+    second: aura_2_ani_45
+  - first:
+      213: -7131044623079422396
+    second: aura_2_ani_46
+  - first:
+      213: -785774141998509238
+    second: aura_2_ani_47
+  - first:
+      213: -3914328700669907148
+    second: aura_2_ani_48
+  - first:
+      213: 8548424644861809583
+    second: aura_2_ani_49
+  - first:
+      213: 4164922860776558916
+    second: aura_2_ani_50
+  - first:
+      213: 3417760646058018181
+    second: aura_2_ani_51
+  - first:
+      213: -2233142941433495413
+    second: aura_2_ani_52
+  - first:
+      213: 2750001209261501712
+    second: aura_2_ani_53
+  - first:
+      213: 8616026892116725428
+    second: aura_2_ani_54
+  - first:
+      213: -1820802311683131595
+    second: aura_2_ani_55
+  - first:
+      213: 5953258696986728025
+    second: aura_2_ani_56
+  - first:
+      213: -5235284710987030457
+    second: aura_2_ani_57
+  - first:
+      213: -4360320539347018739
+    second: aura_2_ani_58
+  - first:
+      213: 8382689921974010762
+    second: aura_2_ani_59
+  - first:
+      213: -2574728073026142883
+    second: aura_2_ani_60
+  - first:
+      213: -5482648666557895713
+    second: aura_2_ani_61
+  - first:
+      213: -6682036278151166934
+    second: aura_2_ani_62
+  - first:
+      213: 2635665234298200717
+    second: aura_2_ani_63
+  - first:
+      213: -1465880261723074066
+    second: aura_2_ani_64
+  - first:
+      213: 5289725398909753098
+    second: aura_2_ani_65
+  - first:
+      213: 8175486617067101969
+    second: aura_2_ani_66
+  - first:
+      213: 7869131678371923083
+    second: aura_2_ani_67
+  - first:
+      213: 5262142708034771094
+    second: aura_2_ani_68
+  - first:
+      213: 1855413149423936937
+    second: aura_2_ani_69
+  - first:
+      213: -2373697364194853797
+    second: aura_2_ani_70
+  - first:
+      213: 2187196192851690802
+    second: aura_2_ani_71
+  - first:
+      213: 6641603158033686897
+    second: aura_2_ani_72
+  - first:
+      213: -2679996435217685275
+    second: aura_2_ani_73
+  - first:
+      213: 4038689683416932546
+    second: aura_2_ani_74
+  - first:
+      213: -2711257978426709792
+    second: aura_2_ani_75
+  - first:
+      213: 8599170616875895625
+    second: aura_2_ani_76
+  - first:
+      213: 8515120603876000879
+    second: aura_2_ani_77
+  - first:
+      213: -6312041487416915059
+    second: aura_2_ani_78
+  - first:
+      213: -7458116724210123494
+    second: aura_2_ani_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aura_2_ani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bb1b3b8d38d7a10800000000000000
+      internalID: 1908826783825902426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b73b1ee0435aa00800000000000000
+      internalID: 767076550057360286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd57a405928022b0800000000000000
+      internalID: -5611341559163822653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a80619edd38510800000000000000
+      internalID: 1550326689912365511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73546ce42d61097c0800000000000000
+      internalID: -4066725370994997961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b61c61e26c2b7b0800000000000000
+      internalID: -5209883917661672635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c914e604da2eece0800000000000000
+      internalID: -1374113746164377143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aura_2_ani_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc11e4f1c7b6b20800000000000000
+      internalID: 3128730840034560937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

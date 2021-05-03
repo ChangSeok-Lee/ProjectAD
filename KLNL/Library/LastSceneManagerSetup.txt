@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Resources/01.Scenes/UI/Lobby.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

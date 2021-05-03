@@ -1,0 +1,1 @@
+{"slotNum":1,"chapter":1,"stage":4,"clearedChapter":1,"clearedStage":4,"currentSkin":0,"isInStage":false,"unLockedSkin":[false,false,false,false,false],"PlayedIntro":true}
